@@ -1,0 +1,12 @@
+target
+.settings
+.classpath
+.metadata
+.project
+.idea
+.DS_Store
+*.iml
+.LCKpom.xml
+dependency-reduced-pom.xml
+npm-debug.log
+node_modules
